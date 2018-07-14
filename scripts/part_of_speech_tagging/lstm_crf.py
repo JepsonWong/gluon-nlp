@@ -53,7 +53,7 @@ print(len(train_sents))
 print(len(valid_sents))
 
 '''
-网络超参数或者
+网络超参数
 '''
 vocab_size = len(id2char)  # 词表大小
 embed_size = 100  # Embedding层参数
